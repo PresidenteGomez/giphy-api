@@ -1,1 +1,1 @@
-# giphy-api
+# GIPHY API Request Assignment 
